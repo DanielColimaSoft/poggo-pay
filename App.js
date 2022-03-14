@@ -78,9 +78,6 @@ const App: () => Node = () => {
           <Section title="See Your Changes">
             <ReloadInstructions />
           </Section>
-          <Section title="Debug">
-            <DebugInstructions />
-          </Section>
           <LearnMoreLinks />
         </View>
       </ScrollView>
