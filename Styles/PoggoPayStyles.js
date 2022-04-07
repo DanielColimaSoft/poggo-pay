@@ -1,6 +1,7 @@
 /* eslint-disable prettier/prettier */
 import {StyleSheet} from 'react-native';
 
+
 export const Styles = StyleSheet.create({
 //-----------General Screens----------//
   topContainer: {
