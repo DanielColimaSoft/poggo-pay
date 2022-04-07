@@ -6,7 +6,8 @@ export const Styles = StyleSheet.create({
 //-----------General Screens----------//
   topContainer: {
     backgroundColor: '#F4AE4A',
-    height: 170,
+    paddingTop: 20,
+    height: 180,
     zIndex: -2,
   },
   elipseRight: {
@@ -84,6 +85,7 @@ export const Styles = StyleSheet.create({
     display: 'flex',
     alignItems: 'center',
     paddingTop: 20,
+    zIndex: 1,
   },
   blueBottonBox2: {
     display: 'flex',
@@ -240,7 +242,7 @@ export const Styles = StyleSheet.create({
     display: 'flex',
     alignItems: 'center',
   },
-//-----------Carousel Screen------------//
+//-----------Services Component------------//
 titleBox: {
   flexDirection: 'row',
   alignItems: 'center',
@@ -292,7 +294,7 @@ cards: {
     shadowRadius: 4.65,
     elevation: 6,
   width: 150,
-  height: 160,
+  height: 120,
   paddingTop: 15,
   paddingLeft: 15,
   margin: 10,
@@ -344,7 +346,10 @@ map: {
   height: 300,
 },
 formBox: {
-  padding: 15,
+  paddingTop: 30,
+  paddingLeft: 15,
+  paddingRight: 15,
+  paddingBottom: 20,
 },
 labelText: {
   marginLeft: 15,

@@ -90,14 +90,14 @@ const Service = ({}) => {
     {
       id: 9,
       Cost: '150',
-      Title: 'Emergency & Urgent Care',
+      Title: 'Emergency',
       Description:
         'We have a veterinarian and personnel on duty six days a week who are trained and equipped to handle any urgent care your pet has. Usually an emergency team consists of at least one veterinarian and several technicians working together to save a pet´s life. Emergencies can be things such as accidental ingestion of rat poison, hit by car, and chocolate ingestion. If you ever feel that your pet needs emergency treatment do not hesitate to call or come in immediately. We are also available for urgent care when the condition is not life-threatening. If you feel your pet needs to be seen before you are able to get an appointment, our veterinarians will work to "squeeze" you in between scheduled appointments. When you arrive, our receptionists will be able to give you an estimate on how long you may have to wait in order to be seen.',
     },
     {
       id: 10,
       Cost: '150',
-      Title: 'Wellness Exams and Immunizations',
+      Title: 'Wellness Exams',
       Description:
         'Companion animals living a healthier life with proper preventive health care is the best way to enjoy them more and longer. We offer and recommend annual physical exams for all animals. Several health problems can be determined from a doctors examination, some of them are: dental disease, early lameness issues, or glaucoma.',
     },
