@@ -20,7 +20,7 @@ export const Styles = StyleSheet.create({
     alignItems: 'center',
   },
   textTitle: {
-    fontFamily: 'PoppinsMedium',
+    fontFamily: 'Poppins-Medium',
     fontStyle: 'normal',
     fontWeight: '500',
     fontSize: 29,
@@ -67,14 +67,14 @@ export const Styles = StyleSheet.create({
     paddingTop: 20,
   },
   welcomeText: {
-    fontFamily: 'PoppinsSemiBold',
+    fontFamily: 'Poppins-SemiBold',
     color: '#FCBF49',
     fontWeight: '600',
     fontSize: 36,
   },
   poggoText: {
     marginTop: -10,
-    fontFamily: 'PoppinsSemiBold',
+    fontFamily: 'Poppins-SemiBold',
     color: '#000000',
     fontWeight: '600',
     fontSize: 20,
@@ -100,7 +100,7 @@ export const Styles = StyleSheet.create({
     elevation: 8,
   },
   blueButtonText: {
-    fontFamily: 'PoppinsRegular',
+    fontFamily: 'Poppins-Regular',
     textTransform: 'capitalize',
     color: '#fff',
   },
@@ -119,7 +119,7 @@ export const Styles = StyleSheet.create({
     // paddingTop: 30,
   },
   statusCreditText: {
-    fontFamily: 'PoppinsRegular',
+    fontFamily: 'Poppins-Regular',
     color: '#000000',
     fontSize: 14,
     textDecorationLine: 'underline',
@@ -165,12 +165,12 @@ export const Styles = StyleSheet.create({
   },
   hourTitle: {
     textAlign: 'center',
-    fontFamily: 'PoppinsMedium',
+    fontFamily: 'Poppins-Medium',
     color: '#000000',
   },
   hour: {
     textAlign: 'center',
-    fontFamily: 'PoppinsLight',
+    fontFamily: 'Poppins-Light',
     color: '#000000',
   },
   boneImage: {
@@ -213,12 +213,12 @@ export const Styles = StyleSheet.create({
     width: 250,
   },
   artitleText: {
-    fontFamily: 'PoppinsMedium',
+    fontFamily: 'Poppins-Medium',
     fontSize: 14,
     color: '#000000',
   },
   artText: {
-    fontFamily: 'PoppinsLight',
+    fontFamily: 'Poppins-Light',
     fontSize: 11,
     color: '#000000',
   },
@@ -231,7 +231,7 @@ export const Styles = StyleSheet.create({
     marginTop: 3,
   },
   readmoreText: {
-    fontFamily: 'PoppinsLight',
+    fontFamily: 'Poppins-Light',
     color: '#FB8500',
     fontSize: 10,
   },
@@ -265,13 +265,13 @@ textBox: {
   padding: 10,
 },
 infoText: {
-  fontFamily: 'PoppinsLight',
+  fontFamily: 'Poppins-Light',
   textAlign: 'center',
   color: '#000000',
   fontSize: 15,
 },
 titleText: {
-  fontFamily: 'PoppinsMedium',
+  fontFamily: 'Poppins-Medium',
   color: '#000000',
   // textDecorationLine: 'underline',
   // textDecorationColor: '#FB8500',
@@ -298,13 +298,13 @@ cards: {
   borderRadius: 14,
 },
 textCard: {
-  fontFamily: 'PoppinsRegular',
+  fontFamily: 'Poppins-Regular',
   color: '#000000',
   paddingTop: 5,
   paddingBottom: 10,
 },
 costText: {
-  fontFamily: 'PoppinsMedium',
+  fontFamily: 'Poppins-Medium',
   color: '#FB8500',
   fontSize: 12,
 },
@@ -329,7 +329,7 @@ foundBox: {
   paddingLeft: 30,
 },
 foundText: {
-  fontFamily: 'PoppinsLight',
+  fontFamily: 'Poppins-Light',
   fontSize: 15,
 },
 mapBox: {
@@ -348,7 +348,7 @@ formBox: {
 labelText: {
   marginLeft: 15,
   marginBottom: -10,
-  fontFamily: 'PoppinsMedium',
+  fontFamily: 'Poppins-Medium',
   color: '#000000',
   fontSize: 15,
 },
@@ -368,7 +368,7 @@ input: {
     elevation: 6,
 },
 titleForm: {
-  fontFamily: 'PoppinsBold',
+  fontFamily: 'Poppins-Bold',
   color: '#000000',
   fontSize: 20,
 },
@@ -424,14 +424,14 @@ cardServicesBox: {
   elevation: 6,
 },
 cardTitle: {
-  fontFamily: 'PoppinsMedium',
+  fontFamily: 'Poppins-Medium',
   fontSize: 12,
   color: '#000000',
   textAlign: 'center',
   marginBottom: 10,
 },
 cardText: {
-  fontFamily: 'PoppinsLight',
+  fontFamily: 'Poppins-Light',
   fontSize: 10,
   color: '#000000',
   textAlign: 'justify',
@@ -458,14 +458,14 @@ cardServicesBoxGeneric: {
   // margin: 10,
 },
 cardTitleGeneric: {
-  fontFamily: 'PoppinsMedium',
+  fontFamily: 'Poppins-Medium',
   fontSize: 12,
   color: '#000000',
   // textAlign: 'center',
   marginBottom: 10,
 },
 cardTextGeneric: {
-  fontFamily: 'PoppinsLight',
+  fontFamily: 'Poppins-Light',
   fontSize: 10,
   color: '#000000',
   // textAlign: 'justify',

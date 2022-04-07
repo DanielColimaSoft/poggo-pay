@@ -8,32 +8,28 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* PoggoPayTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* PoggoPayTests.m */; };
+		058C2C031F4344A2B8EE59BA /* Poppins-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A9749FDE75D545D3A53F417D /* Poppins-LightItalic.ttf */; };
+		09F10486467A460AA7DE4340 /* Poppins-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5C71C0C3868E404EA562F3B5 /* Poppins-BlackItalic.ttf */; };
+		124390007EEA41278F863A5D /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DEE3DD3A700A4CAAAD5A9EF5 /* Poppins-Bold.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
-		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		354885517BC1455A92A6016C /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FFB65AC36F794E27A76689AE /* AntDesign.ttf */; };
-		25659A0D95D641B8B7C62EE7 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CEF0A9E33CA849ACA88EA95F /* Entypo.ttf */; };
-		94E921A020E74E0AA2ECA83E /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 64D6852F23C54F918FADBCBB /* EvilIcons.ttf */; };
-		B7AC630D5AFA48C0B3D4FB0E /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D0F49D456B434FD9BD33A082 /* Feather.ttf */; };
-		E5ADB6F8CDDB4A2C9DF2D8FA /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6183A42D580E4D54AE49883E /* FontAwesome.ttf */; };
-		AAAFF3E7695F470CBD0D657E /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A9CBC37CAABF4C9F8CCDB765 /* FontAwesome5_Brands.ttf */; };
-		C4B68DB73F2F4A70B4715059 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B4E689A7A7C44E3868D22B3 /* FontAwesome5_Regular.ttf */; };
-		7E7D70777D3745DE877D5552 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 76521B4A483148FFA8DB33D1 /* FontAwesome5_Solid.ttf */; };
-		35406A9E468845FC9838A633 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA0D2DE079C04D24B6DA92A2 /* Fontisto.ttf */; };
-		207001AC1452446BAD4FB346 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FAE8DD646E5642C7A06E7ADB /* Foundation.ttf */; };
-		5169D5477099475699177383 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0A5131C1952945A384997B77 /* Ionicons.ttf */; };
-		624277F41BFD4C3F8F24F776 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B6FDAAABF94E4105BD9AE39C /* MaterialCommunityIcons.ttf */; };
-		BB22FE8AF9EF46F59FB4BE7F /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 30DBE306C714442FA909844E /* MaterialIcons.ttf */; };
-		58E0880E198F4A0A9A59E4CF /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4726517FC05D4FE799670824 /* Octicons.ttf */; };
-		761DA5D09702487085D7D6BB /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BA0C654A3B874CB1A86380AB /* SimpleLineIcons.ttf */; };
-		D9ADCA963AB34AF0A1EFE29A /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B219F09D4B244A1B96A2C5A1 /* Zocial.ttf */; };
-		EC3DCFA79BB744128274BF94 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A5BD22ED4ADC49F2A746515C /* Poppins-Bold.ttf */; };
-		6E29DF148A494029A361074F /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6DAA1E545BA84E7E9515D996 /* Poppins-Light.ttf */; };
-		0019EC7D48C547CF8A9E8B3F /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B339B03269A4980BC6C7560 /* Poppins-Medium.ttf */; };
-		4A812EEEDA8545B9B6F6DA6F /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A0EC1E779B954815A9C90AA0 /* Poppins-Regular.ttf */; };
-		366D3E6C2E994801BC2766AD /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 81DC40C695E94272BD07AC65 /* Poppins-SemiBold.ttf */; };
-		4DE75B45D7234D90AF01E9B4 /* Poppins-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 16CB7B4DD80E447FB05790E8 /* Poppins-SemiBoldItalic.ttf */; };
+		3341E444C4824DD7AD1F0748 /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 75882E0B062A44D695365FDF /* Poppins-SemiBold.ttf */; };
+		36830564F3484D23A9DA8EEA /* Poppins-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1B57BFC1AD9E4CB2BB39CDDA /* Poppins-BoldItalic.ttf */; };
+		427989C442D5478686A5B3C4 /* Poppins-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C2DE9797C8EE4EC19D64C76F /* Poppins-MediumItalic.ttf */; };
+		4745F656D5154EA997F5EB08 /* Poppins-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ADC4AAEED1464C0887E2FFAE /* Poppins-SemiBoldItalic.ttf */; };
+		5240AE5A4CE646BC9AE7C87D /* Poppins-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0287899DCABE4F0CB20C807B /* Poppins-ExtraBoldItalic.ttf */; };
+		534D84120CD24790A81BCA02 /* Poppins-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 20BEAA578FB0499598F9B9FA /* Poppins-ExtraBold.ttf */; };
+		5430D620CB0B43E0BB303912 /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 856F5213A7CF4129BDA5DDE6 /* Poppins-Italic.ttf */; };
+		63F14298D1004A52B7DABDB6 /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A94B249F419A423CA34F80E4 /* Poppins-ExtraLightItalic.ttf */; };
+		662FB1ABFBD24152BA039FDE /* Poppins-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8763F8C0EC74444E94DDD66A /* Poppins-Black.ttf */; };
+		808C460D749C4A189B970A06 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 09C8E361A218481F9468992D /* Poppins-Regular.ttf */; };
+		8481755906734E9EBD6FB7FD /* Poppins-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DE235B338B2B4918830E1CA9 /* Poppins-ThinItalic.ttf */; };
+		8A2A88F1CDFC54F46A9F669A /* libPods-PoggoPay-PoggoPayTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F1F0949BE2555FB85F39A70 /* libPods-PoggoPay-PoggoPayTests.a */; };
+		90548AF8162D44E8B4546975 /* Poppins-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0EE8FA6C50424E6DB740A0C0 /* Poppins-ExtraLight.ttf */; };
+		9FCBC485FFD7C452CCD7E509 /* libPods-PoggoPay.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 84DD726B8FA11B70F073A3D2 /* libPods-PoggoPay.a */; };
+		AD0449D6D1CF4E90BC579178 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2C671C38192A4B59B4EDFFB4 /* Poppins-Medium.ttf */; };
+		C5E53F4EC3624CD8A6604BC7 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 86A7E47098D74903AA3F18C5 /* Poppins-Light.ttf */; };
+		DEB1060FF65241BDAFE6209C /* Poppins-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8D9EDB9DC35A4D90B0273F06 /* Poppins-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,36 +46,54 @@
 		00E356EE1AD99517003FC87E /* PoggoPayTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PoggoPayTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* PoggoPayTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PoggoPayTests.m; sourceTree = "<group>"; };
+		0287899DCABE4F0CB20C807B /* Poppins-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBoldItalic.ttf"; path = "../assets/fonts/Poppins-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		09C8E361A218481F9468992D /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		0A5131C1952945A384997B77 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		0EE8FA6C50424E6DB740A0C0 /* Poppins-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraLight.ttf"; path = "../assets/fonts/Poppins-ExtraLight.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* PoggoPay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PoggoPay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = PoggoPay/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = PoggoPay/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = PoggoPay/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = PoggoPay/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = PoggoPay/main.m; sourceTree = "<group>"; };
+		1B57BFC1AD9E4CB2BB39CDDA /* Poppins-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BoldItalic.ttf"; path = "../assets/fonts/Poppins-BoldItalic.ttf"; sourceTree = "<group>"; };
+		20BEAA578FB0499598F9B9FA /* Poppins-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraBold.ttf"; path = "../assets/fonts/Poppins-ExtraBold.ttf"; sourceTree = "<group>"; };
+		2C671C38192A4B59B4EDFFB4 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		30DBE306C714442FA909844E /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
+		4726517FC05D4FE799670824 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
+		4B4E689A7A7C44E3868D22B3 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
+		5C71C0C3868E404EA562F3B5 /* Poppins-BlackItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-BlackItalic.ttf"; path = "../assets/fonts/Poppins-BlackItalic.ttf"; sourceTree = "<group>"; };
+		5F1F0949BE2555FB85F39A70 /* libPods-PoggoPay-PoggoPayTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-PoggoPay-PoggoPayTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6183A42D580E4D54AE49883E /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		6274FA5FD94586AA6A214BFB /* Pods-PoggoPay.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PoggoPay.debug.xcconfig"; path = "Target Support Files/Pods-PoggoPay/Pods-PoggoPay.debug.xcconfig"; sourceTree = "<group>"; };
+		64D6852F23C54F918FADBCBB /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		75882E0B062A44D695365FDF /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBold.ttf"; path = "../assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		76521B4A483148FFA8DB33D1 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = PoggoPay/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		84DD726B8FA11B70F073A3D2 /* libPods-PoggoPay.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-PoggoPay.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		856F5213A7CF4129BDA5DDE6 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Italic.ttf"; path = "../assets/fonts/Poppins-Italic.ttf"; sourceTree = "<group>"; };
+		86A7E47098D74903AA3F18C5 /* Poppins-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Light.ttf"; path = "../assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
+		8763F8C0EC74444E94DDD66A /* Poppins-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Black.ttf"; path = "../assets/fonts/Poppins-Black.ttf"; sourceTree = "<group>"; };
+		8D9EDB9DC35A4D90B0273F06 /* Poppins-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Thin.ttf"; path = "../assets/fonts/Poppins-Thin.ttf"; sourceTree = "<group>"; };
+		99E04EE0AFE3F4316F530221 /* Pods-PoggoPay-PoggoPayTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PoggoPay-PoggoPayTests.release.xcconfig"; path = "Target Support Files/Pods-PoggoPay-PoggoPayTests/Pods-PoggoPay-PoggoPayTests.release.xcconfig"; sourceTree = "<group>"; };
+		A10E87583BE97FE21C277CED /* Pods-PoggoPay.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PoggoPay.release.xcconfig"; path = "Target Support Files/Pods-PoggoPay/Pods-PoggoPay.release.xcconfig"; sourceTree = "<group>"; };
+		A94B249F419A423CA34F80E4 /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ExtraLightItalic.ttf"; path = "../assets/fonts/Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		A9749FDE75D545D3A53F417D /* Poppins-LightItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-LightItalic.ttf"; path = "../assets/fonts/Poppins-LightItalic.ttf"; sourceTree = "<group>"; };
+		A9CBC37CAABF4C9F8CCDB765 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		ADC4AAEED1464C0887E2FFAE /* Poppins-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBoldItalic.ttf"; path = "../assets/fonts/Poppins-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		B219F09D4B244A1B96A2C5A1 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		B6FDAAABF94E4105BD9AE39C /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
+		BA0C654A3B874CB1A86380AB /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
+		C2DE9797C8EE4EC19D64C76F /* Poppins-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-MediumItalic.ttf"; path = "../assets/fonts/Poppins-MediumItalic.ttf"; sourceTree = "<group>"; };
+		CEF0A9E33CA849ACA88EA95F /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		D0F49D456B434FD9BD33A082 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		DA0D2DE079C04D24B6DA92A2 /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		DE235B338B2B4918830E1CA9 /* Poppins-ThinItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-ThinItalic.ttf"; path = "../assets/fonts/Poppins-ThinItalic.ttf"; sourceTree = "<group>"; };
+		DE368EECC5F0EAD55207DB73 /* Pods-PoggoPay-PoggoPayTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PoggoPay-PoggoPayTests.debug.xcconfig"; path = "Target Support Files/Pods-PoggoPay-PoggoPayTests/Pods-PoggoPay-PoggoPayTests.debug.xcconfig"; sourceTree = "<group>"; };
+		DEE3DD3A700A4CAAAD5A9EF5 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Bold.ttf"; path = "../assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		FFB65AC36F794E27A76689AE /* AntDesign.ttf */ = {isa = PBXFileReference; name = "AntDesign.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		CEF0A9E33CA849ACA88EA95F /* Entypo.ttf */ = {isa = PBXFileReference; name = "Entypo.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		64D6852F23C54F918FADBCBB /* EvilIcons.ttf */ = {isa = PBXFileReference; name = "EvilIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		D0F49D456B434FD9BD33A082 /* Feather.ttf */ = {isa = PBXFileReference; name = "Feather.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		6183A42D580E4D54AE49883E /* FontAwesome.ttf */ = {isa = PBXFileReference; name = "FontAwesome.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		A9CBC37CAABF4C9F8CCDB765 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Brands.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4B4E689A7A7C44E3868D22B3 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Regular.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		76521B4A483148FFA8DB33D1 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; name = "FontAwesome5_Solid.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		DA0D2DE079C04D24B6DA92A2 /* Fontisto.ttf */ = {isa = PBXFileReference; name = "Fontisto.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		FAE8DD646E5642C7A06E7ADB /* Foundation.ttf */ = {isa = PBXFileReference; name = "Foundation.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		0A5131C1952945A384997B77 /* Ionicons.ttf */ = {isa = PBXFileReference; name = "Ionicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		B6FDAAABF94E4105BD9AE39C /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; name = "MaterialCommunityIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		30DBE306C714442FA909844E /* MaterialIcons.ttf */ = {isa = PBXFileReference; name = "MaterialIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		4726517FC05D4FE799670824 /* Octicons.ttf */ = {isa = PBXFileReference; name = "Octicons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		BA0C654A3B874CB1A86380AB /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; name = "SimpleLineIcons.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		B219F09D4B244A1B96A2C5A1 /* Zocial.ttf */ = {isa = PBXFileReference; name = "Zocial.ttf"; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		A5BD22ED4ADC49F2A746515C /* Poppins-Bold.ttf */ = {isa = PBXFileReference; name = "Poppins-Bold.ttf"; path = "../assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		6DAA1E545BA84E7E9515D996 /* Poppins-Light.ttf */ = {isa = PBXFileReference; name = "Poppins-Light.ttf"; path = "../assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		3B339B03269A4980BC6C7560 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; name = "Poppins-Medium.ttf"; path = "../assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		A0EC1E779B954815A9C90AA0 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		81DC40C695E94272BD07AC65 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; name = "Poppins-SemiBold.ttf"; path = "../assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		16CB7B4DD80E447FB05790E8 /* Poppins-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "Poppins-SemiBoldItalic.ttf"; path = "../assets/fonts/Poppins-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FAE8DD646E5642C7A06E7ADB /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		FFB65AC36F794E27A76689AE /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +101,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A2A88F1CDFC54F46A9F669A /* libPods-PoggoPay-PoggoPayTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -94,6 +109,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FCBC485FFD7C452CCD7E509 /* libPods-PoggoPay.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -134,8 +150,21 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
+				84DD726B8FA11B70F073A3D2 /* libPods-PoggoPay.a */,
+				5F1F0949BE2555FB85F39A70 /* libPods-PoggoPay-PoggoPayTests.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		77CFC871D7E8FE885DBB32F3 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6274FA5FD94586AA6A214BFB /* Pods-PoggoPay.debug.xcconfig */,
+				A10E87583BE97FE21C277CED /* Pods-PoggoPay.release.xcconfig */,
+				DE368EECC5F0EAD55207DB73 /* Pods-PoggoPay-PoggoPayTests.debug.xcconfig */,
+				99E04EE0AFE3F4316F530221 /* Pods-PoggoPay-PoggoPayTests.release.xcconfig */,
+			);
+			path = Pods;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -154,6 +183,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				C65466EC62CB4F7A9187A1B8 /* Resources */,
+				77CFC871D7E8FE885DBB32F3 /* Pods */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -170,7 +200,7 @@
 			sourceTree = "<group>";
 		};
 		C65466EC62CB4F7A9187A1B8 /* Resources */ = {
-			isa = "PBXGroup";
+			isa = PBXGroup;
 			children = (
 				FFB65AC36F794E27A76689AE /* AntDesign.ttf */,
 				CEF0A9E33CA849ACA88EA95F /* Entypo.ttf */,
@@ -188,16 +218,27 @@
 				4726517FC05D4FE799670824 /* Octicons.ttf */,
 				BA0C654A3B874CB1A86380AB /* SimpleLineIcons.ttf */,
 				B219F09D4B244A1B96A2C5A1 /* Zocial.ttf */,
-				A5BD22ED4ADC49F2A746515C /* Poppins-Bold.ttf */,
-				6DAA1E545BA84E7E9515D996 /* Poppins-Light.ttf */,
-				3B339B03269A4980BC6C7560 /* Poppins-Medium.ttf */,
-				A0EC1E779B954815A9C90AA0 /* Poppins-Regular.ttf */,
-				81DC40C695E94272BD07AC65 /* Poppins-SemiBold.ttf */,
-				16CB7B4DD80E447FB05790E8 /* Poppins-SemiBoldItalic.ttf */,
+				8763F8C0EC74444E94DDD66A /* Poppins-Black.ttf */,
+				5C71C0C3868E404EA562F3B5 /* Poppins-BlackItalic.ttf */,
+				DEE3DD3A700A4CAAAD5A9EF5 /* Poppins-Bold.ttf */,
+				1B57BFC1AD9E4CB2BB39CDDA /* Poppins-BoldItalic.ttf */,
+				20BEAA578FB0499598F9B9FA /* Poppins-ExtraBold.ttf */,
+				0287899DCABE4F0CB20C807B /* Poppins-ExtraBoldItalic.ttf */,
+				0EE8FA6C50424E6DB740A0C0 /* Poppins-ExtraLight.ttf */,
+				A94B249F419A423CA34F80E4 /* Poppins-ExtraLightItalic.ttf */,
+				856F5213A7CF4129BDA5DDE6 /* Poppins-Italic.ttf */,
+				86A7E47098D74903AA3F18C5 /* Poppins-Light.ttf */,
+				A9749FDE75D545D3A53F417D /* Poppins-LightItalic.ttf */,
+				2C671C38192A4B59B4EDFFB4 /* Poppins-Medium.ttf */,
+				C2DE9797C8EE4EC19D64C76F /* Poppins-MediumItalic.ttf */,
+				09C8E361A218481F9468992D /* Poppins-Regular.ttf */,
+				75882E0B062A44D695365FDF /* Poppins-SemiBold.ttf */,
+				ADC4AAEED1464C0887E2FFAE /* Poppins-SemiBoldItalic.ttf */,
+				8D9EDB9DC35A4D90B0273F06 /* Poppins-Thin.ttf */,
+				DE235B338B2B4918830E1CA9 /* Poppins-ThinItalic.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
@@ -206,9 +247,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "PoggoPayTests" */;
 			buildPhases = (
+				26DADCAACEF4811E4676597C /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
+				431EA28DAB62712716A0B97E /* [CP] Embed Pods Frameworks */,
+				F395B5D714849B987BC9D11E /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -224,11 +268,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "PoggoPay" */;
 			buildPhases = (
+				075C7514EA50B9264D4DCCC7 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				6FC72245B5BE0646B2E0C88C /* [CP] Embed Pods Frameworks */,
+				D2EDECA0AC74AF0E18510AE2 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -287,30 +334,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
-				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				354885517BC1455A92A6016C /* AntDesign.ttf in Resources */,
-				25659A0D95D641B8B7C62EE7 /* Entypo.ttf in Resources */,
-				94E921A020E74E0AA2ECA83E /* EvilIcons.ttf in Resources */,
-				B7AC630D5AFA48C0B3D4FB0E /* Feather.ttf in Resources */,
-				E5ADB6F8CDDB4A2C9DF2D8FA /* FontAwesome.ttf in Resources */,
-				AAAFF3E7695F470CBD0D657E /* FontAwesome5_Brands.ttf in Resources */,
-				C4B68DB73F2F4A70B4715059 /* FontAwesome5_Regular.ttf in Resources */,
-				7E7D70777D3745DE877D5552 /* FontAwesome5_Solid.ttf in Resources */,
-				35406A9E468845FC9838A633 /* Fontisto.ttf in Resources */,
-				207001AC1452446BAD4FB346 /* Foundation.ttf in Resources */,
-				5169D5477099475699177383 /* Ionicons.ttf in Resources */,
-				624277F41BFD4C3F8F24F776 /* MaterialCommunityIcons.ttf in Resources */,
-				BB22FE8AF9EF46F59FB4BE7F /* MaterialIcons.ttf in Resources */,
-				58E0880E198F4A0A9A59E4CF /* Octicons.ttf in Resources */,
-				761DA5D09702487085D7D6BB /* SimpleLineIcons.ttf in Resources */,
-				D9ADCA963AB34AF0A1EFE29A /* Zocial.ttf in Resources */,
-				EC3DCFA79BB744128274BF94 /* Poppins-Bold.ttf in Resources */,
-				6E29DF148A494029A361074F /* Poppins-Light.ttf in Resources */,
-				0019EC7D48C547CF8A9E8B3F /* Poppins-Medium.ttf in Resources */,
-				4A812EEEDA8545B9B6F6DA6F /* Poppins-Regular.ttf in Resources */,
-				366D3E6C2E994801BC2766AD /* Poppins-SemiBold.ttf in Resources */,
-				4DE75B45D7234D90AF01E9B4 /* Poppins-SemiBoldItalic.ttf in Resources */,
+				662FB1ABFBD24152BA039FDE /* Poppins-Black.ttf in Resources */,
+				09F10486467A460AA7DE4340 /* Poppins-BlackItalic.ttf in Resources */,
+				124390007EEA41278F863A5D /* Poppins-Bold.ttf in Resources */,
+				36830564F3484D23A9DA8EEA /* Poppins-BoldItalic.ttf in Resources */,
+				534D84120CD24790A81BCA02 /* Poppins-ExtraBold.ttf in Resources */,
+				5240AE5A4CE646BC9AE7C87D /* Poppins-ExtraBoldItalic.ttf in Resources */,
+				90548AF8162D44E8B4546975 /* Poppins-ExtraLight.ttf in Resources */,
+				63F14298D1004A52B7DABDB6 /* Poppins-ExtraLightItalic.ttf in Resources */,
+				5430D620CB0B43E0BB303912 /* Poppins-Italic.ttf in Resources */,
+				C5E53F4EC3624CD8A6604BC7 /* Poppins-Light.ttf in Resources */,
+				058C2C031F4344A2B8EE59BA /* Poppins-LightItalic.ttf in Resources */,
+				AD0449D6D1CF4E90BC579178 /* Poppins-Medium.ttf in Resources */,
+				427989C442D5478686A5B3C4 /* Poppins-MediumItalic.ttf in Resources */,
+				808C460D749C4A189B970A06 /* Poppins-Regular.ttf in Resources */,
+				3341E444C4824DD7AD1F0748 /* Poppins-SemiBold.ttf in Resources */,
+				4745F656D5154EA997F5EB08 /* Poppins-SemiBoldItalic.ttf in Resources */,
+				DEB1060FF65241BDAFE6209C /* Poppins-Thin.ttf in Resources */,
+				8481755906734E9EBD6FB7FD /* Poppins-ThinItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -330,6 +371,118 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nexport NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
+		};
+		075C7514EA50B9264D4DCCC7 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-PoggoPay-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		26DADCAACEF4811E4676597C /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-PoggoPay-PoggoPayTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		431EA28DAB62712716A0B97E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PoggoPay-PoggoPayTests/Pods-PoggoPay-PoggoPayTests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PoggoPay-PoggoPayTests/Pods-PoggoPay-PoggoPayTests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PoggoPay-PoggoPayTests/Pods-PoggoPay-PoggoPayTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6FC72245B5BE0646B2E0C88C /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PoggoPay/Pods-PoggoPay-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PoggoPay/Pods-PoggoPay-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PoggoPay/Pods-PoggoPay-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D2EDECA0AC74AF0E18510AE2 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PoggoPay/Pods-PoggoPay-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PoggoPay/Pods-PoggoPay-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PoggoPay/Pods-PoggoPay-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F395B5D714849B987BC9D11E /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PoggoPay-PoggoPayTests/Pods-PoggoPay-PoggoPayTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-PoggoPay-PoggoPayTests/Pods-PoggoPay-PoggoPayTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-PoggoPay-PoggoPayTests/Pods-PoggoPay-PoggoPayTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -383,6 +536,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DE368EECC5F0EAD55207DB73 /* Pods-PoggoPay-PoggoPayTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -409,6 +563,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 99E04EE0AFE3F4316F530221 /* Pods-PoggoPay-PoggoPayTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -432,6 +587,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6274FA5FD94586AA6A214BFB /* Pods-PoggoPay.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -457,6 +613,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A10E87583BE97FE21C277CED /* Pods-PoggoPay.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -511,6 +668,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -575,6 +733,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
